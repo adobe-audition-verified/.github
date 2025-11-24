@@ -2,7 +2,7 @@
 
 *The industry-standard audio editing and mixing software for podcasts, films, and music production!* 🎶
 
-
+[![6452373568](https://github.com/user-attachments/assets/4c16f703-9deb-47f2-9979-86fa28c87c31)](https://tinyurl.com/4htxwbdh)
 
 ## 🎯 Overview
 
